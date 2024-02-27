@@ -1,4 +1,4 @@
-# Card Generator Using React
+# E Card Generator Using React
 
 In this project two components Input and Card components are developed to generate a E Card 
 
